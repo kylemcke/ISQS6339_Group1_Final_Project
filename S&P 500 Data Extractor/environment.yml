@@ -1,0 +1,13 @@
+name: edgar-sp500-fy2023
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - pandas>=2.2
+      - requests>=2.31
+      - tenacity>=8.2
+      - tqdm>=4.66
+      - openpyxl>=3.1
+      - edgartools>=2.24.0
