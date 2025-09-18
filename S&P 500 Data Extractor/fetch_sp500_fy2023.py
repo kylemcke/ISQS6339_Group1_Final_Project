@@ -12,7 +12,7 @@ from xbrl_extract import (
 )
 
 # Configurations
-DEFAULT_INPUT = "https://raw.githubusercontent.com/kylemcke/ISQS6339_Project_Group1/refs/heads/main/sp500_companies.csv"
+DEFAULT_INPUT = "https://raw.githubusercontent.com/kylemcke/ISQS6339_Group1_Final_Project/refs/heads/main/S%26P%20500%20Data%20Extractor/sp500_companies.csv"
 FY = 2023
 UA = "Kyle McKee kylemcke@ttu.edu"
 DEFAULT_SLEEP = 1.0
