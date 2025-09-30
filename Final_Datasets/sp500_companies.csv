@@ -32,7 +32,6 @@ AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,Minneapolis
 AMT,American Tower,Real Estate,Telecom Tower REITs,Boston,Massachusetts,11/19/2007,0001053507,1995
 AMZN,Amazon,Consumer Discretionary,Broadline Retail,Seattle,Washington,11/18/2005,0001018724,1994
 ANET,Arista Networks,Information Technology,Communications Equipment,Santa Clara,California,8/28/2018,0001596532,2004
-ANSS,Ansys,Information Technology,Application Software,Canonsburg,Pennsylvania,6/19/2017,0001013462,1969
 AON,Aon plc,Financials,Insurance Brokers,Chicago,Illinois,4/23/1996,0000315293,1919
 AOS,A. O. Smith,Industrials,Building Products,Milwaukee,Wisconsin,7/26/2017,0000091142,1916
 APD,Air Products,Materials,Industrial Gases,Upper Macungie Township,Pennsylvania,4/30/1985,0000002969,1940
@@ -79,7 +78,6 @@ CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,Chicago,Illinois,
 CBRE,CBRE Group,Real Estate,Real Estate Services,Dallas,Texas,11/10/2006,0001138118,1906
 CCI,Crown Castle,Real Estate,Telecom Tower REITs,Houston,Texas,3/14/2012,0001051470,1994
 CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Miami,Florida,12/22/1998,0000815097,1972
-CDAY,Ceridian,Industrials,Human Resource & Employment Services,Minneapolis,Minnesota,9/20/2021,0001725057,1992
 CDNS,Cadence Design Systems,Information Technology,Application Software,San Jose,California,9/18/2017,0000813672,1988
 CDW,CDW Corporation,Information Technology,Technology Distributors,Vernon Hills,Illinois,9/23/2019,0001402057,1984
 CE,Celanese,Materials,Specialty Chemicals,Irving,Texas,12/24/2018,0001306830,1918
@@ -118,7 +116,6 @@ CSCO,Cisco,Information Technology,Communications Equipment,San Jose,California,1
 CSGP,CoStar Group,Real Estate,Real Estate Services,Washington,District of Colombia,9/19/2022,0001057352,1987
 CSX,CSX Corporation,Industrials,Rail Transportation,Jacksonville,Florida,3/4/1957,0000277948,1980
 CTAS,Cintas,Industrials,Diversified Support Services,Mason,Ohio,3/1/2001,0000723254,1929
-CTLT,Catalent,Health Care,Pharmaceuticals,Somerset,New Jersey,9/21/2020,0001596783,2007
 CTRA,Coterra,Energy,Oil & Gas Exploration & Production,Houston,Texas,6/23/2008,0000858470,1989
 CTSH,Cognizant,Information Technology,IT Consulting & Other Services,Teaneck,New Jersey,11/17/2006,0001058290,1994
 CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,Indianapolis,Indiana,6/3/2019,0001755672,2019
@@ -134,7 +131,6 @@ DDOG,Datadog,Information Technology,Application Software,New York City,New York,
 DE,Deere & Company,Industrials,Agricultural & Farm Machinery,Moline,Illinois,3/4/1957,0000315189,1837
 DECK,Deckers Brands,Consumer Discretionary,Footwear,Goleta,California,3/18/2024,0000910521,1973
 DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals",Round Rock,Texas,9/23/2024,0001571996,2016
-DFS,Discover Financial,Financials,Consumer Finance,Riverwoods,Illinois,7/2/2007,0001393612,1985
 DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Goodlettsville,Tennessee,12/3/2012,0000029534,1939
 DGX,Quest Diagnostics,Health Care,Health Care Services,Secaucus,New Jersey,12/12/2002,0001022079,1967
 DHI,D. R. Horton,Consumer Discretionary,Homebuilding,Arlington,Texas,6/22/2005,0000882184,1978
@@ -193,7 +189,6 @@ FFIV,"F5, Inc.",Information Technology,Communications Equipment,Seattle,Washingt
 FI,Fiserv,Financials,Transaction & Payment Processing Services,Brookfield,Wisconsin,4/2/2001,0000798354,1984
 FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,Jacksonville,Florida,11/10/2006,0001136893,1968
 FITB,Fifth Third Bancorp,Financials,Regional Banks,Cincinnati,Ohio,3/29/1996,0000035527,1858
-FLT,Fleetcor,Financials,Transaction & Payment Processing Services,Atlanta,Georgia,6/20/2018,0001175454,2000
 FMC,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,Philadelphia,Pennsylvania,8/19/2009,0000037785,1883
 FOX,Fox Corporation (Class B),Communication Services,Broadcasting,New York City,New York,3/19/2019,0001754301,2019
 FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,New York City,New York,3/19/2019,0001754301,2019
@@ -223,7 +218,6 @@ HAS,Hasbro,Consumer Discretionary,Leisure Products,Pawtucket,Rhode Island,9/30/1
 HBAN,Huntington Bancshares,Financials,Regional Banks,Columbus,Ohio,8/28/1997,0000049196,1866
 HCA,HCA Healthcare,Health Care,Health Care Facilities,Nashville,Tennessee,1/27/2015,0000860730,1968
 HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,Atlanta,Georgia,3/31/1988,0000354950,1978
-HES,Hess Corporation,Energy,Integrated Oil & Gas,New York City,New York,5/31/1984,0000004447,1919
 HIG,Hartford (The),Financials,Property & Casualty Insurance,Hartford,Connecticut,3/4/1957,0000874766,1810
 HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,Newport News,Virginia,1/3/2018,0001501585,2011
 HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",Tysons Corner,Virginia,6/19/2017,0001585689,1919
@@ -262,7 +256,6 @@ JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,Lowell,Arkansas,7/1/2015,
 JCI,Johnson Controls,Industrials,Building Products,Glendale,Wisconsin,8/27/2010,0000833444,1885
 JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,Monett,Missouri,11/13/2018,0000779152,1976
 JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,New Brunswick,New Jersey,6/30/1973,0000200406,1886
-JNPR,Juniper Networks,Information Technology,Communications Equipment,Sunnyvale,California,6/2/2006,0001043604,1996
 JPM,JPMorgan Chase,Financials,Diversified Banks,New York City,New York,6/30/1975,0000019617,1799
 K,Kellanova,Consumer Staples,Packaged Foods & Meats,Chicago,Illinois,9/11/1989,0000055067,1906
 KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Burlington,Massachusetts,6/21/2022,0001418135,1981
@@ -322,7 +315,6 @@ MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,Findlay,Ohio,7/1/20
 MPWR,Monolithic Power Systems,Information Technology,Semiconductors,Kirkland,Washington,2/12/2021,0001280452,1997
 MRK,Merck & Co.,Health Care,Pharmaceuticals,Kenilworth,New Jersey,3/4/1957,0000310158,1891
 MRNA,Moderna,Health Care,Biotechnology,Cambridge,Massachusetts,7/21/2021,0001682852,2010
-MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production,Houston,Texas,3/4/1957,0000101778,1887
 MS,Morgan Stanley,Financials,Investment Banking & Brokerage,New York City,New York,7/29/1993,0000895421,1935
 MSCI,MSCI Inc.,Financials,Financial Exchanges & Data,New York City,New York,4/4/2018,0001408198,1969
 MSFT,Microsoft,Information Technology,Systems Software,Redmond,Washington,6/1/1994,0000789019,1975
@@ -365,7 +357,6 @@ PAYC,Paycom,Industrials,Human Resource & Employment Services,Oklahoma City,Oklah
 PAYX,Paychex,Industrials,Human Resource & Employment Services,Penfield,New York,10/1/1998,0000723531,1971
 PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,Bellevue,Washington,12/31/1980,0000075362,1905
 PCG,PG&E Corporation,Utilities,Multi-Utilities,Oakland,California,10/3/2022,0001004980,1905
-PEAK,Healthpeak,Real Estate,Health Care REITs,Long Beach,California,3/31/2008,0000765880,1985
 PEG,Public Service Enterprise Group,Utilities,Electric Utilities,Newark,New Jersey,3/4/1957,0000788784,1903
 PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,Purchase,New York,3/4/1957,0000077476,1898
 PFE,Pfizer,Health Care,Pharmaceuticals,New York City,New York,3/4/1957,0000078003,1849
@@ -389,7 +380,6 @@ PSA,Public Storage,Real Estate,Self-Storage REITs,Glendale,California,8/19/2005,
 PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,Houston,Texas,5/1/2012,0001534701,1917
 PTC,PTC Inc.,Information Technology,Application Software,Boston,Massachusetts,4/20/2021,0000857005,1985
 PWR,Quanta Services,Industrials,Construction & Engineering,Houston,Texas,7/1/2009,0001050915,1997
-PXD,Pioneer Natural Resources,Energy,Oil & Gas Exploration & Production,Irving,Texas,9/24/2008,0001038357,1997
 PYPL,PayPal,Financials,Transaction & Payment Processing Services,San Jose,California,7/20/2015,0001633917,1998
 QCOM,Qualcomm,Information Technology,Semiconductors,San Diego,California,7/22/1999,0000804328,1985
 QRVO,Qorvo,Information Technology,Semiconductors,Greensboro,North Carolina,6/11/2015,0001604778,2015
@@ -496,7 +486,6 @@ WM,Waste Management,Industrials,Environmental & Facilities Services,Houston,Texa
 WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,Tulsa,Oklahoma,3/31/1975,0000107263,1908
 WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,Bentonville,Arkansas,8/31/1982,0000104169,1962
 WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,Greenwich,Connecticut,12/5/2019,0000011544,1967
-WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,Atlanta,Georgia,3/4/1957,0001732845,2015
 WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,Homefurnishing Retail,San Francisco,California,3/24/2025,0000719955,1956
 WST,West Pharmaceutical Services,Health Care,Health Care Supplies,Exton,Pennsylvania,5/22/2020,0000105770,1923
 WTW,Willis Towers Watson,Financials,Insurance Brokers,Arlington,Virginia,1/5/2016,0001140536,2016
@@ -512,5 +501,6 @@ ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Warsaw,Indiana,8/7/2001,0001
 ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,Lincolnshire,Illinois,12/23/2019,0000877212,1969
 ZION,Zions Bancorporation,Financials,Regional Banks,Salt Lake City,Utah,6/22/2001,0000109380,1873
 ZTS,Zoetis,Health Care,Pharmaceuticals,Parsippany,New Jersey,6/21/2013,0001555280,1952
+
 
 
