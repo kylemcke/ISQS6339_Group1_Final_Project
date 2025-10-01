@@ -1,4 +1,4 @@
-Sector,Source,SeriesIDs,2022_Level_Avg,2023_Level_Avg,YoY_%_2023_vs_2022,Proxy_Note
+GICS Sector,Source,SeriesIDs,2022_Level_Avg,2023_Level_Avg,YoY_%_2023_vs_2022,Proxy_Note
 Communication Services,CPI,CUUR0000SEED,94.785,95.333,0.58,CPI Telephone services.
 Consumer Discretionary,CPI,CPIRECNS,130.846,136.105,4.02,CPI Recreation aggregate.
 Consumer Staples,CPI,CUUR0000SAF11,288.451,302.929,5.02,CPI Food at home.
@@ -10,3 +10,4 @@ Information Technology,CPI,CUSR0000SEEE,7.239,7.092,-2.03,CPI IT hardware & serv
 Materials,CPI,CUSR0000SACL1E,165.482,166.944,0.88,CPI Commodities less food & energy commodities (core goods).
 Real Estate,CPI,"CUUR0000SEHA, CUUR0000SEHC",366.643,394.917,7.71,Average of Rent of primary residence and Owners' Equivalent Rent.
 Utilities,CPI,CUSR0000SEHF,254.143,260.589,2.54,CPI Energy services (electricity & piped gas).
+
