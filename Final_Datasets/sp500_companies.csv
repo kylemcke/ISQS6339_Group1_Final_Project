@@ -113,7 +113,7 @@ CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,Wilmin
 CRM,Salesforce,Information Technology,Application Software,San Francisco,California,9/15/2008,0001108524,1999
 CRWD,CrowdStrike,Information Technology,Systems Software,Austin,Texas,6/24/2024,0001535527,2011
 CSCO,Cisco,Information Technology,Communications Equipment,San Jose,California,12/1/1993,0000858877,1984
-CSGP,CoStar Group,Real Estate,Real Estate Services,Washington,District of Colombia,9/19/2022,0001057352,1987
+CSGP,CoStar Group,Real Estate,Real Estate Services,Washington,District of Columbia,9/19/2022,0001057352,1987
 CSX,CSX Corporation,Industrials,Rail Transportation,Jacksonville,Florida,3/4/1957,0000277948,1980
 CTAS,Cintas,Industrials,Diversified Support Services,Mason,Ohio,3/1/2001,0000723254,1929
 CTRA,Coterra,Energy,Oil & Gas Exploration & Production,Houston,Texas,6/23/2008,0000858470,1989
@@ -134,7 +134,7 @@ DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Pe
 DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,Goodlettsville,Tennessee,12/3/2012,0000029534,1939
 DGX,Quest Diagnostics,Health Care,Health Care Services,Secaucus,New Jersey,12/12/2002,0001022079,1967
 DHI,D. R. Horton,Consumer Discretionary,Homebuilding,Arlington,Texas,6/22/2005,0000882184,1978
-DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,Washington,District of Colombia,11/18/1998,0000313616,1969
+DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,Washington,District of Columbia,11/18/1998,0000313616,1969
 DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,Burbank,California,6/30/1976,0001744489,1923
 DLR,Digital Realty,Real Estate,Data Center REITs,Austin,Texas,5/18/2016,0001297996,2004
 DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,Chesapeake,Virginia,12/19/2011,0000935703,1986
@@ -286,7 +286,7 @@ LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,Fre
 LUV,Southwest Airlines,Industrials,Passenger Airlines,Dallas,Texas,7/1/1994,0000092380,1967
 LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,Las Vegas,Nevada,10/3/2019,0001300514,1988
 LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,Eagle,Idaho,12/3/2018,0001679273,1950
-LYB,LyondellBasell,Materials,Specialty Chemicals,Rotterdam,Netherlands,9/5/2012,0001489393,2007
+LYB,LyondellBasell,Materials,Specialty Chemicals,Houston,Texas,9/5/2012,0001489393,2007
 LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,Beverly Hills,California,12/23/2019,0001335258,2010
 MA,Mastercard,Financials,Transaction & Payment Processing Services,Harrison,New York,7/18/2008,0001141391,1966
 MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,Memphis,Tennessee,12/2/2016,0000912595,1977
@@ -342,7 +342,7 @@ NVDA,Nvidia,Information Technology,Semiconductors,Santa Clara,California,11/30/2
 NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding,Reston,Virginia,9/26/2019,0000906163,1980
 NWS,News Corp (Class B),Communication Services,Publishing,New York City,New York,9/18/2015,0001564708,1980
 NWSA,News Corp (Class A),Communication Services,Publishing,New York City,New York,8/1/2013,0001564708,1980
-NXPI,NXP Semiconductors,Information Technology,Semiconductors,Eindhoven,Netherlands,3/22/2021,0001413447,1953
+NXPI,NXP Semiconductors,Information Technology,Semiconductors,Austin,Texas,3/22/2021,0001413447,1953
 O,Realty Income,Real Estate,Retail REITs,San Diego,California,4/7/2015,0000726728,1969
 ODFL,Old Dominion,Industrials,Cargo Ground Transportation,Thomasville,North Carolina,12/9/2019,0000878927,1934
 OKE,Oneok,Energy,Oil & Gas Storage & Transportation,Tulsa,Oklahoma,3/15/2010,0001039684,1906
@@ -501,6 +501,7 @@ ZBH,Zimmer Biomet,Health Care,Health Care Equipment,Warsaw,Indiana,8/7/2001,0001
 ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,Lincolnshire,Illinois,12/23/2019,0000877212,1969
 ZION,Zions Bancorporation,Financials,Regional Banks,Salt Lake City,Utah,6/22/2001,0000109380,1873
 ZTS,Zoetis,Health Care,Pharmaceuticals,Parsippany,New Jersey,6/21/2013,0001555280,1952
+
 
 
 
