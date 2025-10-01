@@ -1,4 +1,5 @@
-Fiscal Year,"Annualized CPI (BLS CPI-U, annual avg YoY, %)","PCE Growth (Real, BEA T10101 Line 2, %)","Average VIX (Cboe, 2023)","Mean Effective Fed Funds Rate (FRED EFFR, %, 2023)"
+fiscal_year,"Annualized CPI (BLS CPI-U, annual avg YoY, %)","PCE Growth (Real, BEA T10101 Line 2, %)","Average VIX (Cboe, 2023)","Mean Effective Fed Funds Rate (FRED EFFR, %, 2023)"
 2023, 4.12,2.6,16.85,5.026
+
 
 
