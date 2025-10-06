@@ -1,0 +1,72 @@
+Overview
+This script retrieves, cleans, merges, and enhances several economic/financial datasets into a single dataset. It pulls in the raw data directly from the group’s GitHub repository, performs preprocessing, merges datasets based on relevant keys, applies naming conventions, and generates categorical variables for later analysis. The resulting output is a single csv file that is stored locally. 
+
+Features
+•	Automated Data Retreival
+•	Comprehensive Data Integration
+•	Data Cleaning & Formatting
+•	Column Standardization
+•	Categorical Feature Engineering
+•	Output
+
+Dependencies
+Ensure the following libraries are installed:
+•	pandas 
+•	io 
+•	requests 
+
+Input Files
+All input files are retrieved directly from the following GitHub repository:
+https://raw.githubusercontent.com/kylemcke/ISQS6339_Group1_Final_Project/refs/heads/main/Final_Datasets/
+The script accesses the following files:
+•	sp500_companies.csv
+•	sp500_sec_filing_data.csv
+•	sp500_stock_data.csv
+•	state_census_and_education_data.csv
+•	income_by_education_level.csv
+•	cpi_by_sector_2023_data.csv
+•	macroeconomic_2023_data.csv
+
+Merge Logic
+1.	Combine sp500_companies.csv and sp500_sec_filing_data.csv on ‘Symbol’
+2.	Add sp500_stock_data.csv on ‘Symbol’
+3.	Add state_census_and_education_data.csv on ‘State’
+4.	Add income_by_education_level.csv on ‘State’
+5.	Add cpi_by_sector_2023_data.csv on ‘GICS Sector’
+6.	Add macroeconomic_2023_data.csv on ‘Fiscal Year’
+
+Data Cleaning Steps
+1.	Type Conversion
+  a.	CIK: Zero-padded 10-digit strings
+  b.	Date added and filing_date: Converted to datetime
+2.	Column Pruning
+  a.	Remove redundant fields such as Status, Note, and intermediate variables
+3.	Column Renaming
+  a.	Provide readable and analysis-friendly labels
+4.	Categorical Binning
+  a.	Add categorical variables using pd.cut():
+    i.	Volatility
+    ii.	Income
+    iii.	Inflation
+    iv.	Debt-to-Equity Ratio
+
+Output
+The final combined dataset is saved as:
+final_combined_dataset.csv
+The file is exported to the path defined in the ‘path’ variable. To modify the output location, change the path or file_out variables in the script.
+
+Usage
+1.	Clone or download this repository
+2.	Ensure dependencies are installed
+3.	Run the script:
+  a.	python combine_files.py
+4.	The console will display intermediate DataFrame types and confirmation of merges.
+5.	Check the output directory for the merged csv file. 
+
+Sample File Structure
+📁 Project Folder
+ ┣ 📜 combine_files.py
+ ┣ 📂 Output
+ ┃ ┗ 📜 final_combined_dataset.csv
+ ┗ 📂 Data (optional local storage)
+
